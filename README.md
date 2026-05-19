@@ -1,13 +1,13 @@
 # Hi there, I'm W. L. Shashinda Niroshana! 👋
 
-### 🚀 Founder & Co-CEO at Royal Codex Software Solutions | Software Engineering Undergraduate
+### 🚀 Founder & Manager at Royal Codex Software Solutions | Software Engineering Undergraduate
 
-I am a passionate Full-Stack Developer and Entrepreneur. I specialized in architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
+I am a passionate Full-Stack Developer and Entrepreneur. I specialize in software architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
 
 ---
 
 ### 💻 Professional Summary & Operations
-- 🏢 **Current Role:** Founder & Co-CEO at **Royal Codex Software Solutions (PVT) LTD**.
+- 🏢 **Current Role:** Founder & Managing Director at **Royal Codex Software Solutions (PVT) LTD**.
 - 🎓 **Education:** Software Engineering Undergraduate at **Java Institute for Advanced Technology**.
 - 🛠️ **Expertise:** Full-Stack Web Development, Architecture Design, and Database Management.
 - 🎯 **Focus Areas:** Scalable Point of Sale (POS) Systems, Smart System Automations, and Custom Client Solutions.
@@ -30,23 +30,23 @@ Here are some of the primary technologies, platforms, and models I work with to 
 
 #### 🧰 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&bytes=true)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-### 📊 GitHub Statistics
+### 🚀 Featured Projects
+
+#### 🛒 RC POS (Advanced Point of Sale System)
+* **Description:** A highly scalable, real-time POS solution built for modern business management. Features include advanced shift management, dynamic inventory valuation, and automated supplier reporting.
+* **Tech Stack:** `React`, `TypeScript`, `Vite`, `Firebase Realtime Database`, `Print CSS`.
+
+---
+
+### 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashinda1212&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashinda1212&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashinda1212&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashinda1212&theme=github-dark" alt="Shashinda's GitHub Activity Graph" width="95%" />
 </p>
 
 ---
