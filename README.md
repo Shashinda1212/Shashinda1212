@@ -1,13 +1,13 @@
 # Hi there, I'm W. L. Shashinda Niroshana! 👋
 
-### 🚀 Founder & Manager at Royal Codex Software Solutions | Software Engineering Undergraduate
+### 🚀 Co-Founder & Co-CEO at Royal Codex Software Solutions | Software Engineering Undergraduate
 
 I am a passionate Full-Stack Developer and Entrepreneur. I specialize in software architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
 
 ---
 
 ### 💻 Professional Summary & Operations
-- 🏢 **Current Role:** Founder & Managing Director at **Royal Codex Software Solutions (PVT) LTD**.
+- 🏢 **Current Role:** Co-Founder & Co-CEO at **Royal Codex Software Solutions (PVT) LTD**.
 - 🎓 **Education:** Software Engineering Undergraduate at **Java Institute for Advanced Technology**.
 - 🛠️ **Expertise:** Full-Stack Web Development, Architecture Design, and Database Management.
 - 🎯 **Focus Areas:** Scalable Point of Sale (POS) Systems, Smart System Automations, and Custom Client Solutions.
