@@ -1,27 +1,34 @@
-# Hi there, I'm a Software Engineer & Full-Stack Developer! 👋
+# Hi there, I'm W. L. Shashinda Niroshana! 👋
 
-<!-- Introduction -->
-I am a passionate Full-Stack Web Developer and Software Engineering undergraduate. I love building clean, scalable, and efficient web applications, solving complex problems, and turning ideas into real-world software solutions.
+### 🚀 Founder & Manager at Royal Codex Software Solutions | Software Engineering Undergraduate
+
+I am a passionate Full-Stack Developer and Entrepreneur. I specialized in architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💻 Professional Summary & Operations
+- 🏢 **Current Role:** Founder & Managing Director at **Royal Codex Software Solutions (PVT) LTD**.
+- 🎓 **Education:** Software Engineering Undergraduate at **Java Institute for Advanced Technology**.
+- 🛠️ **Expertise:** Full-Stack Web Development, Architecture Design, and Database Management.
+- 🎯 **Focus Areas:** Scalable Point of Sale (POS) Systems, Smart System Automations, and Custom Client Solutions.
 
-Here are some of the technologies and tools I work with:
+---
+
+### 🛠️ Tech Stack & Professional Skills
+
+Here are some of the primary technologies, platforms, and models I work with to build robust products:
 
 #### 🌐 Front-End Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Back-End & Cloud
+#### ⚙️ Back-End & Cloud Infrastructure
 ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### 🧰 Tools & Architecture
+#### 🧰 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -31,19 +38,22 @@ Here are some of the technologies and tools I work with:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashinda1212&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashinda1212&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashinda1212&theme=dark&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect & Collaborate
 
-Let's build something amazing together!
+Let's discuss professional inquiries, enterprise operations, or innovative engineering ventures:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shashinda-niroshana-916660327)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashindaniroshana@gmail.com)
