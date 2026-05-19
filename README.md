@@ -1,13 +1,13 @@
 # Hi there, I'm W. L. Shashinda Niroshana! 👋
 
-### 🚀 Founder & Manager at Royal Codex Software Solutions | Software Engineering Undergraduate
+### 🚀 Founder & Co-CEO at Royal Codex Software Solutions | Software Engineering Undergraduate
 
 I am a passionate Full-Stack Developer and Entrepreneur. I specialized in architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
 
 ---
 
 ### 💻 Professional Summary & Operations
-- 🏢 **Current Role:** Founder & Managing Director at **Royal Codex Software Solutions (PVT) LTD**.
+- 🏢 **Current Role:** Founder & Co-CEO at **Royal Codex Software Solutions (PVT) LTD**.
 - 🎓 **Education:** Software Engineering Undergraduate at **Java Institute for Advanced Technology**.
 - 🛠️ **Expertise:** Full-Stack Web Development, Architecture Design, and Database Management.
 - 🎯 **Focus Areas:** Scalable Point of Sale (POS) Systems, Smart System Automations, and Custom Client Solutions.
@@ -38,15 +38,15 @@ Here are some of the primary technologies, platforms, and models I work with to 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashinda1212&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashinda1212&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashinda1212&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
