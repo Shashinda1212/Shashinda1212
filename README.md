@@ -1,6 +1,6 @@
 # Hi there, I'm W. L. Shashinda Niroshana! 👋
 
-### 🚀 Co-Founder & Co-CEO at <a href = 'https://github.com/Royal-Codex-Software-Solutions' style='color:white'>Royal Codex Software Solutions</a> | Software Engineering Undergraduate
+### 🚀 Co-Founder & Co-CEO at <a href = 'https://github.com/Royal-Codex-Software-Solutions'>Royal Codex Software Solutions</a> | Software Engineering Undergraduate
 
 I am a passionate Full-Stack Developer and Entrepreneur. I specialize in software architecture engineering, clean coding patterns, and building scalable business solutions. Currently managing client operations and driving software design workflows at **Royal Codex**.
 
