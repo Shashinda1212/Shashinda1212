@@ -39,7 +39,7 @@ Here are some of the primary technologies, platforms, and models I work with to 
 
 #### 🛒 RC POS (Advanced Point of Sale System)
 * **Description:** A highly scalable, real-time POS solution built for modern business management. Features include advanced shift management, dynamic inventory valuation, and automated supplier reporting.
-* **Tech Stack:** `React`, `TypeScript`, `Vite`, `Firebase Realtime Database`, `Print CSS`.
+* **Tech Stack:** `React`, `TypeScript`, `Vite`, `Firebase Realtime Database`, `Tailwind CSS`.
 
 ---
 
