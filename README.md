@@ -7,7 +7,7 @@ I am a passionate Full-Stack Developer and Entrepreneur. I specialize in softwar
 ---
 
 ### 💻 Professional Summary & Operations
-- 🏢 **Current Role:** Co-Founder & Co-CEO at **Royal Codex Software Solutions (PVT) LTD**.
+- 🏢 **Current Role:** Co-Founder & CTO at **Royal Codex Software Solutions (PVT) LTD**.
 - 🎓 **Education:** Software Engineering Undergraduate at **Java Institute for Advanced Technology**.
 - 🛠️ **Expertise:** Full-Stack Web Development, Architecture Design, and Database Management.
 - 🎯 **Focus Areas:** Scalable Point of Sale (POS) Systems, Smart System Automations, and Custom Client Solutions.
